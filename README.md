@@ -1,2 +1,2 @@
 # terraform
-deploy helm to a clusternusing terraform
+deploy helm to a cluster nusing terraform
